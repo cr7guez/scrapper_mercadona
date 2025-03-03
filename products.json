@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Naranjas",
+    "price": "5,45 €",
+    "image": "https://prod-mercadona.imgix.net/images/9fdc8778c8dab255cc4431327d56d0f4.jpeg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Galletas Divertidas chocolate con leche Hacendado",
+    "price": "2,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/51d47accde858f947c0e6c9cb093a70a.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Burger americana gruesas",
+    "price": "3,10 €",
+    "image": "https://prod-mercadona.imgix.net/images/e8618b68baee13924c18680ac843d42f.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Jamón serrano lonchas Incarlopsa",
+    "price": "4,10 €",
+    "image": "https://prod-mercadona.imgix.net/images/5aeebc970d2350a90da012e237a41e83.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Taquitos de jamón Incarlopsa",
+    "price": "2,65 €",
+    "image": "https://prod-mercadona.imgix.net/images/f796cd784ca396dddd40dc0e9a26aa04.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Cerveza clásica Mahou",
+    "price": "9,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/b1b88eab797e0178f56e313a057a60e8.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Jamón serrano medias lonchas Jamcal",
+    "price": "4,15 €",
+    "image": "https://prod-mercadona.imgix.net/images/efb5847e410e06738a6400c51bb93886.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Café en cápsula espresso intenso Dolce Gusto",
+    "price": "5,20 €",
+    "image": "https://prod-mercadona.imgix.net/images/f8f23609ccf427c84fbcd16e84c48c5a.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Café con leche en cápsula Dolce Gusto",
+    "price": "5,20 €",
+    "image": "https://prod-mercadona.imgix.net/images/ab4ecad45970999f2072ef13c66d50dd.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Dentífrico Repair & Protect Sensodyne",
+    "price": "4,80 €",
+    "image": "https://prod-mercadona.imgix.net/images/16c05735330283234743acf2eb5462e2.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Papilla fruta variada con galleta Hacendado +6 meses",
+    "price": "0,95 €",
+    "image": "https://prod-mercadona.imgix.net/images/83bd844aad188c0450ad132a48e1544b.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Untapán de atún Hacendado",
+    "price": "2,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/7c13813448e67da4a6e0a258b2dc4140.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Sobrasada picante L'Illa especialidades",
+    "price": "2,20 €",
+    "image": "https://prod-mercadona.imgix.net/images/db9a5067fa1e300e99cb21c68c178e89.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Aceite labial Lip Oil glow bloom Deliplus 01 naranja",
+    "price": "4,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/cd287b3b67ffb3b2dacb815e16be16d1.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Pinzas de ropa Bosque Verde",
+    "price": "1,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/baebdf7b83f33a988e3097f996d43dd8.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Gel crema facial revitalizante & iluminador Anti Ox Deliplus con FPS 50 y Vitamina C",
+    "price": "5,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/78c723e383c14c96388fcaa605a7390b.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Aceite labial Lip Oil glow bloom Deliplus 02 fucsia",
+    "price": "4,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/2a0b8e67e33e08febde81de3eb92840f.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Aceite labial Lip Oil glow bloom Deliplus 03 cherry",
+    "price": "4,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/5edc875f373f8a74ef7c7f4a46be2955.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Migas de bacalao al estilo inglés Hacendado",
+    "price": "2,80 €",
+    "image": "https://prod-mercadona.imgix.net/images/e48d5d44ef1da7db3822e9da44b0f027.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Barritas de barquillo Black & White Hacendado bañadas de cobertura blanca",
+    "price": "1,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/795b9ac17fb5b455c2688ac08f66ee68.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Lote Precision System 6 hojas Deliplus 3D Motion Power",
+    "price": "15,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/b55d0582f228d376973d76164f1192e3.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Lote infantil maquillaje Happy Little Princess Unicorn",
+    "price": "9,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/86b6fea440fdd82aebd65229614e5446.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Crema facial Antiarrugas y Reafirmante Men care Deliplus ácido hialurónico y matrixyl",
+    "price": "5,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/26c6306f83e397d77642140402af865c.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Aceitunas verdes rellenas de pepinillo Hacendado",
+    "price": "2,95 €",
+    "image": "https://prod-mercadona.imgix.net/images/57d19890e92a963400c1972a9adc7f54.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Batido lácteo sabor chocolate +Proteínas Hacendado 30 g proteínas",
+    "price": "1,20 €",
+    "image": "https://prod-mercadona.imgix.net/images/b63e928015e60f829e074865adf560e2.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Batido lácteo sabor vainilla +Proteínas Hacendado 30 g proteínas",
+    "price": "1,20 €",
+    "image": "https://prod-mercadona.imgix.net/images/c5a6d2a6577734370f8d2ef25f111fb6.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Tiras de potón del Pacífico Hacendado congeladas",
+    "price": "4,45 €",
+    "image": "https://prod-mercadona.imgix.net/images/4fdab476ef08c8dc8e5af196af075723.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Medio salmón",
+    "price": "16,11 €",
+    "image": "https://prod-mercadona.imgix.net/images/da236aaa8e3f4a760d95f063ec5a1638.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Empanados de pollo picantes sin gluten",
+    "price": "2,80 €",
+    "image": "https://prod-mercadona.imgix.net/images/3f9ba8631173748a0a5d6ed412d76f5c.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Floretas de coliflor para microondas Hacendado",
+    "price": "1,36 €",
+    "image": "https://prod-mercadona.imgix.net/images/bc351aee28e11493329eb5fbcdbd8874.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Verdura para Crema de Calabaza",
+    "price": "3,87 €",
+    "image": "https://prod-mercadona.imgix.net/images/92db0b39b8fecc80fd22e3e2b157dcf4.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Queso añejo tostado mezcla Hacendado",
+    "price": "6,19 €",
+    "image": "https://prod-mercadona.imgix.net/images/c427745ef5eb7029152c476a811d1433.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Cepillo dental Eléctrico Oral-B Vitality Pro Precision Clean",
+    "price": "24,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/9a0dcab645d7d37dd33bd1d7911e34ea.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Salteado de pimientos y cebolla",
+    "price": "2,28 €",
+    "image": "https://prod-mercadona.imgix.net/images/9d961d91d9f14f9a534c68a0a86fbad1.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Preparado de verduras para sofreír",
+    "price": "2,28 €",
+    "image": "https://prod-mercadona.imgix.net/images/80de99a8b062be514a7d603468337658.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Mix de verduras para microondas",
+    "price": "2,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/08b9441bffc19b0580eba66be2c5d4c1.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Panes especiales sabor fuet Hacendado",
+    "price": "0,85 €",
+    "image": "https://prod-mercadona.imgix.net/images/2bd88e8d14a29cb525c2f24d4567d106.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Lasaña de pollo Hacendado",
+    "price": "3,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/f25e9a313d1a972a6a1d46e147425aaa.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Vino blanco Chardonnay Mar de Uvas",
+    "price": "2,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/667a2dfbdb059e356af8e6d6d54e65b5.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Neceser saquito Snoopy grande",
+    "price": "7,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/5034e1a55431110cd1b2b9c84883150e.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Disco desmaquillante Deliplus reutilizable",
+    "price": "2,75 €",
+    "image": "https://prod-mercadona.imgix.net/images/2c17d1031e2b5a23b124f225f0e95413.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Neceser Nube mediano con asa",
+    "price": "6,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/6f8d54e2d5233c60692003ba9b4e800c.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Neceser corazones mediano con asa",
+    "price": "6,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/d3051f8d1d310e149b20e67282c655e1.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Bálsamo labial Color Balm Deliplus 06 morado",
+    "price": "4,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/af8c4134979d88fe56ef577192d34f22.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Cerveza sin gluten Mahou 0,0% sin alcohol tostada",
+    "price": "6,32 €",
+    "image": "https://prod-mercadona.imgix.net/images/a764b36d59655e59bb43e9dee5286708.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Cereales copos de maíz Choco Corn Flakes Hacendado con chocolate",
+    "price": "2,20 €",
+    "image": "https://prod-mercadona.imgix.net/images/370c1c07a12c544d216212cf81027cf3.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Caramelos sabor lima Hacendado 0% azúcares",
+    "price": "1,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/0efe3c1fed3c498b3dd92b18a260d29b.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Caramelos sabor eucalipto y mentol Hacendado 0% azúcares",
+    "price": "1,50 €",
+    "image": "https://prod-mercadona.imgix.net/images/1b553d41bffefff0cdd9139469f9e513.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Polvos voluminizador para el cabello Volum Fix Deliplus mate fijación 4",
+    "price": "3,95 €",
+    "image": "https://prod-mercadona.imgix.net/images/c847e4510ad30285f1a9e8af6e18f293.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Lote corporal mujer Nivea",
+    "price": "10,95 €",
+    "image": "https://prod-mercadona.imgix.net/images/21892ba3f1ece0bd7415fb7ac66ce3af.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Bebida isotónica sabor cítrico Iso drink zero",
+    "price": "1,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/71675487e3eb4dc008c42995a03fdb87.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Crema de lentejas Hacendado",
+    "price": "1,70 €",
+    "image": "https://prod-mercadona.imgix.net/images/302cbc39039ec48bf8ce9e98bdc6e504.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Fresón",
+    "price": "3,25 €",
+    "image": "https://prod-mercadona.imgix.net/images/541f9e28e57b2897041f060d5fe17728.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Vino blanco crianza D.O Rioja Capricho de Uva",
+    "price": "7,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/aaf8f090f8932f3a3b727e8412afac08.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Nuggets de salmón rebozados",
+    "price": "3,95 €",
+    "image": "https://prod-mercadona.imgix.net/images/2675cd74d507563a5c382a25ca38ea03.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Gambón empanado",
+    "price": "4,95 €",
+    "image": "https://prod-mercadona.imgix.net/images/e63366f8b3a4a6078f39fea312839012.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Bizcocho con azúcar moreno y nueces",
+    "price": "3,30 €",
+    "image": "https://prod-mercadona.imgix.net/images/d75f9794efc3b7a4699f46e05381fb7b.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Lomo asado La Carloteña lonchas",
+    "price": "2,70 €",
+    "image": "https://prod-mercadona.imgix.net/images/b63cbab0a9feaa3dd44023c2e15c182f.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Jamón de Teruel raza Duroc El Cierzo",
+    "price": "89,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/b5a2fc5a286b163d872188795c7e0db5.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Media Hogaza integral de avena, semillas de girasol y sésamo rebanado",
+    "price": "0,95 €",
+    "image": "https://prod-mercadona.imgix.net/images/1032354d7292140ba34d7d6b738d67a7.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Canapés de tartaletas congelados Listo para Comer",
+    "price": "15,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/45e84682219661bc4dabd33c9c166171.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Queso lonchas fundido burger mezcla Hacendado",
+    "price": "1,94 €",
+    "image": "https://prod-mercadona.imgix.net/images/7bd7b58ec4f47a62db26456bdf66ba1a.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Vino Tinto D.O Valencia Finca Cañadelas reserva",
+    "price": "7,00 €",
+    "image": "https://prod-mercadona.imgix.net/images/722529d433f80b3d0947ec4343cf54dc.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Cañaílla cocida",
+    "price": "5,70 €",
+    "image": "https://prod-mercadona.imgix.net/images/715c7740d66fe2dc93bf2e4da3488ae0.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Crema de queso Tex-Mex Hacendado",
+    "price": "1,58 €",
+    "image": "https://prod-mercadona.imgix.net/images/b43b6a577fe0d3be3bd7272de06b7362.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Postre lácteo Carrot Cake Hacendado con zanahoria",
+    "price": "1,70 €",
+    "image": "https://prod-mercadona.imgix.net/images/5c4b329516c26e30eaa2db6c1313c209.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Recambio ambientador eléctrico Matcha Bosque Verde",
+    "price": "1,60 €",
+    "image": "https://prod-mercadona.imgix.net/images/3c6a5207e56bd803ee8caa8ffc7717b1.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Refresco té sabor limón Fuze Tea",
+    "price": "1,99 €",
+    "image": "https://prod-mercadona.imgix.net/images/47b24130e2a5593bc2c41c9787a81970.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Refresco té sabor limón Fuze Tea",
+    "price": "6,80 €",
+    "image": "https://prod-mercadona.imgix.net/images/b82ed6bc2e7e8980d71f9ffb80e5e93a.jpg?fit=crop&h=300&w=300"
+  },
+  {
+    "title": "Cardo Hacendado ultracongelado",
+    "price": "1,65 €",
+    "image": "https://prod-mercadona.imgix.net/images/fc037efe69816c5e3cb1cdde60f2b008.jpg?fit=crop&h=300&w=300"
+  }
+]
