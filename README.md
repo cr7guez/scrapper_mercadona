@@ -19,3 +19,40 @@ Este proyecto es una aplicación que permite obtener y visualizar en todo moment
 ```bash
 git clone https://github.com/tuusuario/scrapper_mercadona.git
 cd scrapper_mercadona
+```
+
+### 2️⃣ Abrir el proyecto con Visual Studio Code
+Si tienes Visual Studio Code instalado, puedes abrir el proyecto con el siguiente comando:
+```bash
+code .
+```
+
+### 3️⃣ Instalar las dependencias
+Este proyecto utiliza Node.js y npm para gestionar las dependencias. Para instalar las dependencias, ejecuta:
+```bash
+npm i
+```
+
+### 4️⃣ Ejecutar el proyecto
+Una vez que las dependencias estén instaladas, puedes ejecutar el proyecto con el siguiente comando:
+```bash
+npm start
+```
+
+## 🧑‍💻 API
+La API está disponible en la ruta /products y devuelve los productos en formato JSON.
+
+Ejemplo de uso:
+```bash
+curl http://localhost:3000/products
+```
+
+## 📜 Tecnologías Usadas
+- Node.js: Entorno de ejecución para JavaScript.
+- Express.js: Framework para crear la API y servir la interfaz web.
+- Puppeteer: Librería para hacer web scraping de los productos de Mercadona.
+- JSON: Formato de almacenamiento para los productos obtenidos.
+
+## ⚠️ Notas
+- Asegúrate de tener Node.js instalado. Si no lo tienes, puedes descargarlo desde aquí.
+- El proyecto realiza scraping de la página de Mercadona, por lo que es posible que el diseño y la estructura del sitio cambien, lo que podría requerir actualizar el código.
