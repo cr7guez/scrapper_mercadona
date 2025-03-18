@@ -1,6 +1,6 @@
 # 🛒 Scraper de Novedades de Mercadona
 
-Este proyecto es una aplicación que permite obtener y visualizar en todo momento las novedades de la tienda online de **Mercadona**. Utiliza **Puppeteer** para hacer web scraping de los productos y **Express.js** para servir los datos en una API y en una interfaz web.
+Este proyecto es una aplicación que permite obtener y visualizar en todo momento las novedades de la tienda online de **Mercadona**. Utiliza **Puppeteer** para hacer web scraping de los productos y **NodeJs** para servir los datos en una API y en una interfaz web.
 
 ---
 
