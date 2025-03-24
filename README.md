@@ -64,5 +64,5 @@ curl http://localhost:3000/products
 - JSON: Formato de almacenamiento para los productos obtenidos.
 
 ## ⚠️ Notas
-- Asegúrate de tener Node.js instalado. Si no lo tienes, puedes descargarlo desde aquí.
+- Asegúrate de tener Node.js instalado. Si no lo tienes, puedes descargarlo desde [aquí](https://nodejs.org/es/download).
 - El proyecto realiza scraping de la página de Mercadona, por lo que es posible que el diseño y la estructura del sitio cambien, lo que podría requerir actualizar el código.
