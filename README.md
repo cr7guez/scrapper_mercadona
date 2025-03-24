@@ -33,6 +33,16 @@ Este proyecto utiliza Node.js y npm para gestionar las dependencias. Para instal
 npm i
 ```
 
+### 3️⃣ Verificar instalación Puppeteer
+Para asegurarte de que Puppeteer está instalado correctamente, ejecuta:
+```bash
+npm ls puppeteer
+```
+Si Puppeteer no está instalado, puedes agregarlo con:
+```bash
+npm install puppeteer
+```
+
 ### 4️⃣ Ejecutar el proyecto
 Una vez que las dependencias estén instaladas, puedes ejecutar el proyecto con el siguiente comando:
 ```bash
