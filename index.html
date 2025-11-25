@@ -68,27 +68,30 @@
     <h1>Novedades de Mercadona</h1>
     <div class="product-container" id="product-list">
     </div>
-    <script>
-        fetch('products.json')
-            .then(response => response.json())
-            .then(productsData => {
-                const productList = document.getElementById('product-list');
-                productsData.forEach(product => {
-                    const productCard = document.createElement('div');
-                    productCard.classList.add('product-card');
+<script>
+  fetch('products.json')
+    .then(response => response.json())
+    .then(productsData => {
+      const productList = document.getElementById('product-list');
+      productsData.forEach(product => {
+        const productCard = document.createElement('div');
+        productCard.classList.add('product-card');
 
-                    productCard.innerHTML = `
-                        <img src="${product.image}" alt="${product.title}">
-                        <div class="info">
-                            <h3>${product.title}</h3>
-                            <p class="price">${product.price}</p>
-                        </div>
-                    `;
-                    productList.appendChild(productCard);
-                });
-            })
-            .catch(err => console.error('Error al cargar los productos:', err));
-    </script>
+        productCard.innerHTML = `
+          <img src="${product.imagen}" alt="${product.nombre}">
+          <div class="info">
+            <h3>${product.nombre}</h3>
+            <p class="price">${product.precio}</p>
+            <p class="quantity">${product.formato}</p>
+          </div>
+        `;
+        productList.appendChild(productCard);
+      });
+    })
+    .catch(err => console.error('Error al cargar los productos:', err));
+</script>
+
+
 </body>
 
 </html>
